@@ -1,0 +1,42 @@
+body{
+    background-color: darkblue;
+}
+.uu{
+    color: white;
+    background-color: red;
+    border-radius: 20px;
+    padding: 10px;
+}
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.img{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+img{
+    border: 5px red solid;
+}
+h1{
+color: white;
+background-color: black;
+text-align: center;
+ border-radius:30px ;
+padding: 50px;
+}
+.r1{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.r2{
+border: 20px red solid;
+border-radius: 10px;
+}
+.soz{
+background-color: lawngreen;
+padding: 20px;
+}
